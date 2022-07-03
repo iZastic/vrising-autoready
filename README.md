@@ -11,5 +11,8 @@ Join the [V Rising Mod Community](https://discord.gg/r87Vdez2Br), and ping `@iZa
 Submit a ticket on [GitHub](https://github.com/iZastic/vrising-autoready/issues)
 
 ### Changelog
+`1.0.1`
+- Forgot to remove logging
+
 `1.0.0`
 - Initial upload
