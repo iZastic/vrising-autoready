@@ -10,11 +10,10 @@
     <Authors>iZastic</Authors>
     <PackageId>$(Authors).$(AssemblyName)</PackageId>
     <PackageProjectUrl>https://github.com/iZastic/vrising-autoready</PackageProjectUrl>
-    <UnhollowedDllPath>..\BepInEx\unhollowed</UnhollowedDllPath>
   </PropertyGroup>
   
   <ItemGroup>
-    <PackageReference Include="VRising.Unhollowed.Client" Version="0.6.1.57247001" />
+    <PackageReference Include="VRising.Unhollowed.Client" Version="0.6.5.57575090" />
     <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.*" IncludeAssets="compile" />
     <PackageReference Include="System.Text.Json" Version="6.0.7" />
   </ItemGroup>

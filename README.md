@@ -6,7 +6,7 @@ Automatically skips the ready screen when loaded
 - Extract _AutoReady.dll_ into _(VRising folder)/BepInEx/plugins_
 
 ### Support
-Join the [V Rising Mod Community](https://discord.gg/r87Vdez2Br), and ping `@iZastic#0365`.
+Join the [modding discord](https://vrisingmods.com/discord) for support and tag `@iZastic#0365`
 
 Submit a ticket on [GitHub](https://github.com/iZastic/vrising-autoready/issues)
 
