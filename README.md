@@ -1,3 +1,5 @@
+# ARCHIVED - No longer need to click when ready
+
 # AutoReady
 Automatically skips the ready screen when loaded
 
